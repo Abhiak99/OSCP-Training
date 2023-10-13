@@ -1,9 +1,9 @@
 # OSCP-Training
 ## Linux Basics
 ### Theory part
-https://www.geeksforgeeks.org/linux-file-hierarchy-structure
-https://www.thegeekstuff.com/2010/09/linux-file-system-structure/
-https://www.redhat.com/sysadmin/linux-file-permissions-explained
+. https://www.geeksforgeeks.org/linux-file-hierarchy-structure
+. https://www.thegeekstuff.com/2010/09/linux-file-system-structure/
+. https://www.redhat.com/sysadmin/linux-file-permissions-explained
 ![image](https://github.com/Abhiak99/OSCP-Training/assets/78052345/8fe2bd38-6ed3-4c69-bd7a-1deeb79123b0)
 
 
