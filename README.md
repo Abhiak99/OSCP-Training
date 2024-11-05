@@ -15,3 +15,15 @@
 5. https://tryhackme.com/room/linuxbackdoors
 6. https://tryhackme.com/room/linuxstrengthtraining
 7. https://overthewire.org/wargames/bandit/
+
+
+
+## Python Scripting Basics
+### Hands-On
+1. https://tryhackme.com/r/room/pythonbasics
+2. https://tryhackme.com/r/room/pythonforcybersecurity
+3. https://tryhackme.com/r/room/intropocscripting
+4. https://tryhackme.com/r/room/scripting
+5. https://tryhackme.com/r/room/pythonplayground
+6. https://tryhackme.com/r/room/peakhill
+7. https://tryhackme.com/r/room/pyrat
